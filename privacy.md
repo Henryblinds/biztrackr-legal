@@ -1,7 +1,7 @@
-# BizTrackr Privacy Policy
+# BizTrackrPH Privacy Policy
 
-**Effective date:** *[TO FILL: e.g. "1 June 2026"]*
-**Last updated:** *[TO FILL: same as above on first publish]*
+**Effective date:** *17 May 2026*
+**Last updated:** *17 May 2026*
 
 This Privacy Policy describes how **BizTrackr** ("the app", "we", "our")
 handles information when you use the mobile application on your Android or
@@ -12,9 +12,9 @@ If you do not agree with this Privacy Policy, please do not use BizTrackr.
 
 ---
 
-## Short version (the TL;DR)
+## Short version
 
-- **BizTrackr is an offline app.** It does **not** send your business data
+- **BizTrackrPH is an offline app.** It does **not** send your business data
   to any server, to us, or to any third party.
 - **We do not collect, store, or have access to any personal information
   about you or your customers.**
@@ -35,13 +35,11 @@ If you do not agree with this Privacy Policy, please do not use BizTrackr.
 
 ## 1. Who we are
 
-BizTrackr is published by *[TO FILL: your full business / developer name,
-e.g. "Henry Lim" or "HBL Software"]* ("we"), based in *[TO FILL: country,
-e.g. "the Philippines"]*.
+BizTrackr is published by HNB Software Labs ("we"), based in the Philippines.
 
 You can contact us at:
-- **Email:** *[TO FILL: e.g. "support@biztrackr.app"]*
-- **Mailing address:** *[TO FILL, optional]*
+- **Email:** henry.dev09@gmail.com
+- **Mailing address:** henry.dev09@gmail.com
 
 For matters specifically related to the Philippine **Data Privacy Act of
 2012 (RA 10173)**, our designated point of contact is the same email
@@ -255,7 +253,7 @@ We follow security practices appropriate to a local-only application:
   and a passphrase-derived key.
 
 **No security system is perfect.** If you suspect a vulnerability,
-please email us at *[TO FILL: security contact]*.
+please email us at henry.dev09@gmail.com.
 
 ---
 
@@ -303,8 +301,7 @@ you accept the updated policy.
 
 For privacy questions, requests, or concerns:
 
-- **Email:** *[TO FILL: e.g. "privacy@biztrackr.app"]*
-- *[TO FILL: optional postal address]*
+- **Email:** henry.dev09@gmail.com
 
 If you do not receive a satisfactory response, you may also contact the
 relevant data-protection authority in your country.
